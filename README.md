@@ -26,19 +26,19 @@ make?”
 The following images are examples of how we played around with our project.
 
 You can first enter in ingredients one by one, and the circle dynamically updates:
-![](recipe-classifier/screenshots/ChineseIngredients.png)
+![](/recipe-classifier/screenshots/ChineseIngredients.png)
 
 Or, you can copy paste an entire recipe from Google. We searched up a creme brulee recipe on Google.
-![](recipe-classifier/screenshots/cremeBruleeRecipe.png)
+![](/recipe-classifier/screenshots/cremeBruleeRecipe.png)
 
 The results:
-![](recipe-classifier/screenshots/cremeBruleePrediction.png)
+![](/recipe-classifier/screenshots/cremeBruleePrediction.png)
 
 Another example, this time with Pho:
-![](recipe-classifier/screenshots/PhoRecipe.png)
+![](/recipe-classifier/screenshots/PhoRecipe.png)
 
 The results:
-![](recipe-classifier/screenshots/PhoPrediction.png)
+![](/recipe-classifier/screenshots/PhoPrediction.png)
 
 ## Installation
 Navigate to the backend folder and run "python server.py" in the command line, which will start
